@@ -1,0 +1,8 @@
+TODO
+ - parser os comandos da linha de comando
+ - salvar matriz no arquivo
+ - ler matriz da stdin
+ - imprimir resultado na stdout
+ - implementar refinamento
+ - melhorar LU
+ - melhorar backward and forward substitution
