@@ -21,7 +21,7 @@ C program to invert a given square matrix using LU decomposition, Gauss-sidel wi
  - Implementar a geração de matrizes aleatórias
  - Implementar os comentários dyoxigen
   ## FIXME:
- - ✓ [DONE] Função LU_decomposition: Esqueci de implementar o pivotamento do vetor b onde (Ax = b)
+ - ✓ [DONE] ~~Função LU_decomposition: Esqueci de implementar o pivotamento do vetor b onde (Ax = b)~~
  - melhorar backward and forward substitution
  - 
  
